@@ -85,7 +85,7 @@ npm install
 **Server (.env file is already created)**
 The server/.env file contains:
 ```
-PORT=5000
+PORT=5001
 MONGODB_URI=mongodb://localhost:27017/meetsync
 JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
 NODE_ENV=development
@@ -95,8 +95,8 @@ CLIENT_URL=http://localhost:3000
 **Client (.env file is already created)**
 The client/.env file contains:
 ```
-REACT_APP_API_URL=http://localhost:5000/api
-REACT_APP_SOCKET_URL=http://localhost:5000
+REACT_APP_API_URL=http://localhost:5001/api
+REACT_APP_SOCKET_URL=http://localhost:5001
 ```
 
 ⚠️ **Important**: Change the JWT_SECRET in production!
