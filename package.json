@@ -1,0 +1,22 @@
+{
+  "name": "meetsync",
+  "version": "1.0.0",
+  "description": "Video Conferencing Platform - Zoom Clone",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install",
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [
+    "video-conferencing",
+    "webrtc",
+    "socket.io",
+    "zoom-clone"
+  ],
+  "author": "MeetSync Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
