@@ -248,9 +248,9 @@ meetsync/
 - `user-started-screen-share` - User started sharing
 - `user-stopped-screen-share` - User stopped sharing
 
-## Scaling for 100+ Participants
 
-The current implementation uses WebRTC mesh topology. For 100+ participants, consider:
+
+The current implementation uses WebRTC mesh topolog:
 
 ### 1. SFU (Selective Forwarding Unit)
 Implement a media server like:
