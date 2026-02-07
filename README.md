@@ -1,6 +1,6 @@
 # MeetSync - Video Conferencing Platform
 
-A full-featured Zoom clone supporting 100+ participants with WebRTC, Socket.IO, and JWT authentication.
+A full-featured Zoom clone supporting  participants with WebRTC, Socket.IO, and JWT authentication.
 
 ## Features
 
