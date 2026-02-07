@@ -5,7 +5,7 @@ A full-featured Zoom clone supporting 100+ participants with WebRTC, Socket.IO, 
 ## Features
 
 - 🎥 **Video & Audio Conferencing** - HD video calls with multiple participants
-- 👥 **100+ Participant Support** - Scalable architecture using WebRTC mesh
+- 👥 **Participant Support** - Scalable architecture using WebRTC mesh
 - 🔐 **Authentication** - JWT-based secure login/register system
 - 🚪 **Guest Access** - Join meetings with just a code (no account needed)
 - 💬 **Real-time Chat** - In-meeting text chat
